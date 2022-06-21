@@ -16,6 +16,7 @@
    <img align='center' alt='João-Python' height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
    <img align='center' alt='João-Python' height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 </div>
+
 ##
    
 <div>
