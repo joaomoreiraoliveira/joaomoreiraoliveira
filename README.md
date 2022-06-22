@@ -1,5 +1,5 @@
 <h1 align='center'>Olá, me chamo João Pedro Moreira Gonçalves de Oliveira</h1>
-<h3 align='center'>Sou Desenvolvedor de Software!</h3>
+<h3 align='center'>Sou Cientista de dados</h3>
 
 - 🌱 Estou sempre em constante aprendizado, no momento estou aprendendo sobre **Deep learning**
 - 👯 Estou procurando trabalho com desenvolvimento de Software
