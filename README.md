@@ -1,7 +1,11 @@
-### Olá, eu sou João Pedro Moreira Gonçalves de Oliveira👋
+<h1 align='center'>Olá, me chamo João Pedro Moreira Gonçalves de Oliveira</h1>
+<h3 align='center'>Sou Desenvolvedor de Software!</h3>
 
-- 🌱 Estudando Python
+- 🌱 Estou sempre em constante aprendizado, no momento estou aprendendo sobre **Deep learning**
 - 👯 Estou procurando trabalho com desenvolvimento de Software
+
+<h3 align='left'>Minhas métricas no GitHub:</h3>
+
 
 <div align="center">
   <a href="https://github.com/joaomoreiraoliveira">
